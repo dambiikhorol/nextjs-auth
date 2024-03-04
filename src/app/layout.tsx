@@ -21,10 +21,11 @@ export default function RootLayout({
     <html lang='en'>
       <body className={inter.className}>
        <Provider>
-       <main className='h-screen flex flex-col justify-center items-center'>
-          <Navbar />
+   
+     
           {children}
-        </main>
+         
+      
         <Toaster />
        </Provider>
       </body>
