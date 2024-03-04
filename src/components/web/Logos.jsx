@@ -1,7 +1,7 @@
 "use client"
 import Image from "next/image";
 import React from "react";
-import Container from "./container";
+import Container from "./Containerweb";
 import oneImg from "../../../public/img/Amazon_Web_Services_Logo-1.svg";
 import twoImg from "../../../public/img/Microsoft_Azure_Logo-2.svg";
 import threeImg from "../../../public/img/Google_Cloud_logo-1-1.svg";

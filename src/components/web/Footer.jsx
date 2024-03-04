@@ -2,7 +2,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import React from "react";
-import Container from "./container";
+import Container from "./Containerweb";
 import LogoImg from "../../../public/img/logo-2.svg";
 
 export default function Footer() {

@@ -1,6 +1,6 @@
 "use client"
 import Link from "next/link";
-import Container from "./container";
+import Container from "./Containerweb";
 import { TypeAnimation } from 'react-type-animation';
 
 const Hero = () => {

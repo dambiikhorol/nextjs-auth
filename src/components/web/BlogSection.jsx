@@ -1,7 +1,7 @@
 "use client"
 import Image from "next/image";
 import React from "react";
-import Container from "./container";
+import Container from "./Containerweb";
 import Link from "next/link";
 import OneImg from "../../../public/img/Rectangle-1299.jpg";
 import TwoImg from "../../../public/img/Rectangle-1309.jpg";
