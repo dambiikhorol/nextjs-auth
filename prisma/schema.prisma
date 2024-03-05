@@ -24,3 +24,11 @@ model User {
   createdAt DateTime @default(now())
   updateAt DateTime @updatedAt
 }
+
+model Test {
+  id      Int      @id @default(autoincrement())
+  title   String   @unique
+  delgerengui String @unique
+  createdAt DateTime @default(now())
+  updateAt DateTime @updatedAt
+}

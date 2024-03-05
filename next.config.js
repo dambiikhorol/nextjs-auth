@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  
     eslint: { 
         ignoreDuringBuilds: true, 
       }, 
@@ -9,7 +10,8 @@ const nextConfig = {
             '@react-email/render',
             '@react-email/tailwind'
         ]
-    }
+    },
+  
 }
 
 module.exports = nextConfig
